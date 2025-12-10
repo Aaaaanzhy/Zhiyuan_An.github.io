@@ -3,7 +3,7 @@ title: "Secret Handshakes: Full Dynamicity, Deniability and Lattice-Based Design
 collection: publications
 category: manuscripts
 excerpt: 'This work considers full dynamicity in secret handshakes.'
-date: 2022-10
+date: 2022-10-26
 venue: 'Theoretical Computer Science 940 (2023) 14–35'
 ---
 
