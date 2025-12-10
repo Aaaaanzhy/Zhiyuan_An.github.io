@@ -3,7 +3,7 @@ title: "Forward-Secure Revocable Secret Handshakes from Lattices. PQCrypto 2022"
 collection: publications
 category: conferences
 excerpt: 'This work considers forward security in secret handshakes.'
-date: 2022-09
+date: 2022-09-21
 venue: 'PQCrypto 2022'
 ---
 
