@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Forward-Secure Revocable Secret Handshakes from Lattices<br />PQCrypto 2022; Online",
+    43.5904719,
+    3.8595132
   ],
   [
     "Deniable cryptosystems: simpler constructions and achieving leakage resilience<br />ESORICS 2023; The Hague, The Netherlands",
