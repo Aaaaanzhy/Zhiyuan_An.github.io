@@ -1,32 +1,27 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Zhiyuan An",
+    "email": "anzhy@mail2.sysu.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://anzhy-crypto.github.io",
+    "summary": "Currently studied as a PhD candidate at Sun Yat-sen University with supervisor Prof. Fangguo Zhang",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Guangzhou",
+      "countryCode": "China",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=R_aUmP0AAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://orcid.org/0000-0002-6766-0375"
       }
     ]
   },
