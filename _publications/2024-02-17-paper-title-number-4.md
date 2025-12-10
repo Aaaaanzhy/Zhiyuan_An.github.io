@@ -3,7 +3,7 @@ title: "Lattice-Based Secret Handshakes with Reusable Credentials. ICICS 2021"
 collection: publications
 category: conferences
 excerpt: 'This work considers reusable credentials in secret handshakes.'
-date: 2021-11
+date: 2021-11-27
 venue: 'ICICS 2021'
 ---
 
